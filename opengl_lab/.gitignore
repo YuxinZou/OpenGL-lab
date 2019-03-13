@@ -1,0 +1,10 @@
+build
+
+# QtCreator
+*.user
+
+# KDevelop
+*.kdev*
+
+.*
+!.gitignore
